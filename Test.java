@@ -15,3 +15,13 @@ public class Test {
         System.out.println("This is first commit to rajafirstbranch");
     }
 }
+ class Sum {
+    public static void main(String[]args){
+        System.out.println("Sum of Two number");
+        int a=10;
+        int b=12;
+        int sum=a+b;
+        System.out.println(sum);
+    }
+
+}
