@@ -7,5 +7,6 @@ public class Test {
         System.out.println("my fifth commit");
         System.out.println("my sixth commit");
         System.out.println("my seventh commit");
+        System.out.println("my 8th commit");
     }
 }
